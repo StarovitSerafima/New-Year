@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1736355381,
+	"version": 1738773784,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,9 +26,11 @@
 		"images/windowgame-sheet0.png",
 		"images/sprite7-sheet0.png",
 		"images/spriteon-sheet0.png",
+		"images/spriteon-sheet1.png",
 		"images/sprite9-sheet0.png",
 		"images/sprite10-sheet0.png",
-		"images/spriteoff-sheet0.png",
+		"images/rightmove-sheet0.png",
+		"images/leftmove-sheet0.png",
 		"media/mixkit-completion-of-a-level-2063.m4a",
 		"media/mixkit-completion-of-a-level-2063.ogg",
 		"media/mixkit-mouse-click-close-1113.m4a",
